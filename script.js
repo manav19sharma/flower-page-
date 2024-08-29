@@ -3,10 +3,20 @@ document.addEventListener("DOMContentLoaded", function() {
     function showText() {
         const textElement = document.getElementById('text');
         const textLines = [
-            "Here is the first line of new text!",
-            "Here's the second line with more details.",
-            "This line gives further information.",
-            "Finally, this is the last line of the message."
+            "hey qutuuuuu",
+            " I WANT TO TELL U ",
+            "THAT ",
+            "I LOVE U ANJALI ",
+            "babyyyy U R THE BESTEST PART OF MY EVERYDAY ",
+            "DEKH MEIN ABHI BAS APNI FEELINGS KO EXPLAIN NHI KR SKTA  ",
+            "MEI BAS TUJHE FEEL KRVANA CHAHTA HU KI MEI TUJHSE PYAR KRTA HU",
+            "I LOVE U ANJALI ",
+            "DEKH MEIN EFFORTS KRTA HU BAS TARIKA ALAG H ",
+            "AND I REALLY TRY TO LOVE U THE WAY U WANT TO BE LOVED ",
+            "DEKH I NEED A HUG !!!!!!!!!!!!!!!!",
+            "I WANT MY RIGHTSS!!!!!!!!!!!!!!!!",
+            "MY SWEETUUUU",
+            "MY LOVE MY ANJALI ,I LOVE U BABY",
         ];
 
         let currentLine = 0;
